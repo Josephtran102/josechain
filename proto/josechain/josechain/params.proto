@@ -1,0 +1,15 @@
+syntax = "proto3";
+package josechain.josechain;
+
+import "amino/amino.proto";
+import "gogoproto/gogo.proto";
+
+option go_package = "josechain/x/josechain/types";
+
+// Params defines the parameters for the module.
+message Params {
+  option (amino.name) = "josechain/x/josechain/Params";
+  option (gogoproto.equal) = true;
+
+  
+}
