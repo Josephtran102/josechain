@@ -32,7 +32,8 @@ This will start the Josechain node and begin synchronizing with the network.
 Configuration
 Josechain can be configured using a configuration file. The default configuration file is located at config.yaml in the project root directory. You can modify this file to customize the behavior of your Josechain node.
 Adjust the configuration settings according to your requirements.
-Contributing
+
+## Contributing
 We welcome contributions to the Josechain project! If you would like to contribute, please follow these steps:
 
 Fork the repository on GitHub.
@@ -43,14 +44,14 @@ Submit a pull request to the main repository.
 
 We appreciate your contributions!
 
-License
+## License
 Josechain is released under the MIT License.
 
-Contact
+## Contact
 If you have any questions, issues, or suggestions, please feel free to open an issue on our GitHub repository or contact us at josephtran0505@gmail.com.
 
 Happy blockchain building with Josechain!
-
+##
 This README.mdx file provides an overview of the Josechain project, installation instructions, usage guidelines, configuration details, and information on how to contribute to the project. It also includes a section on licensing and contact information.
 
 Feel free to customize the content and structure of the README.mdx file to best suit your project's needs. You can add more sections, include code examples, or provide additional resources and links as necessary.
