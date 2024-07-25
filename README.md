@@ -46,7 +46,7 @@ We appreciate your contributions!
 License
 Josechain is released under the MIT License.
 Contact
-If you have any questions, issues, or suggestions, please feel free to open an issue on our GitHub repository or contact us at info@josechain.com.
+If you have any questions, issues, or suggestions, please feel free to open an issue on our GitHub repository or contact us at josephtran0505@gmail.com.
 Happy blockchain building with Josechain!
 
 This README.mdx file provides an overview of the Josechain project, installation instructions, usage guidelines, configuration details, and information on how to contribute to the project. It also includes a section on licensing and contact information.
